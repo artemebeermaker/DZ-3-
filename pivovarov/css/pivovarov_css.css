@@ -1,0 +1,44 @@
+body {
+  width: 300px;
+  margin: 5px;
+  font-family: calibri;
+}
+header {
+  background-color: #60b7e5;
+  margin-bottom: 5px;
+  text-align: center;
+  color: white;
+  width: 100%;
+}
+main {
+  background-color: #60b7e5;
+  color: white;
+  width: 100%;
+}
+footer {
+  background-color: #60b7e5;
+  color: white;
+  width: 100%;
+  margin-top: 5px;
+}
+header h1 {
+  margin: 0px;
+}
+main p {
+  margin: 5px;
+}
+main ul {
+  margin: 0px;
+}
+footer p {
+  margin-top: 5px;
+}
+footer p {
+  margin-bottom: 0px;
+}
+footer ul {
+  margin-top: 0px;
+}
+img {
+  border-bottom: 5px solid white;
+}
